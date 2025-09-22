@@ -1,0 +1,12 @@
+Manufacturing notes:
+2xPCBs in panel.
+6 layer PCB
+PCB Thickness 1.2mm
+PCB Color: Black
+Silkscreen: White
+Surface Finish: ENIG
+Outer Copper Weight: 1Oz
+Inner Copper Weight: 0.5Oz
+Impedance Control: Yes (Layer Stackup described in .GD1 layer)
+Via Covering: Epoxy filled & Capped
+Min via hole size/diameter: 0.2mm/0.35mm

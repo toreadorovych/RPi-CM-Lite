@@ -1,0 +1,19 @@
+*/__Previews/
+*/History/*
+/History/
+*/Project Logs for */*
+
+*.Dat
+*.PrjPcbStructure
+/__Previews/
+/Project Logs for */
+/Project Outputs for */
+
+/Docs/*.step
+/Docs/*.zip
+
+*/OldVersions/*
+/Mechanical/OldVersions/
+/Mechanical/V3-housing/OldVersions/
+/Mechanical/Lufa10Frame/OldVersions/
+/Mechanical/NazgulXL10V6/OldVersions/
